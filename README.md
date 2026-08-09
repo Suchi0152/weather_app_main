@@ -95,9 +95,6 @@ Repository:
 weather_app
 
 
-## Author
 
-
-Edikan Udoh
 
 
