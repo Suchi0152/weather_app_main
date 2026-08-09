@@ -1,4 +1,3 @@
-# weather_app_main
 # Weather App
 
 
@@ -96,6 +95,9 @@ Repository:
 weather_app
 
 
+## Author
 
+
+Edikan Udoh
 
 
